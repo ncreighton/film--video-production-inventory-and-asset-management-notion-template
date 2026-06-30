@@ -1,2 +1,45 @@
-# film--video-production-inventory-and-asset-management-notion-template
-Track equipment, supplies, software licenses, and maintenance schedules in one place. No per-seat fees like enterprise asset management tools.
+# Film & Video Production Inventory and Asset Management Notion Template
+
+> Notion Template for Film Production
+
+The fastest way to have a complete productivity system running today. No setup fees. No learning curve.
+
+Fully documented: every section explained so you know exactly what to customize. Pre-built databases, views, and formula fields — ready to duplicate and use.
+
+## What's Included
+
+- Film & Video Production Inventory And Asset Management —...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | ✅ | ✅ |
+| Standard views | ✅ | ✅ |
+| Sample data | ✅ | ✅ |
+| Advanced automations | ❌ | ✅ |
+| Custom formulas | ❌ | ✅ |
+| Multiple databases | ❌ | ✅ |
+| Dashboard views | ❌ | ✅ |
+| Lifetime updates | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$24.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/28E3cvdPpe2M6xy5bud011n)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
